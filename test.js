@@ -9,7 +9,7 @@ function countToTen() {
       }
       
       count++;
-    }, 1200);
+    }, 12200);
   }
   
   countToTen();
